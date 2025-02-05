@@ -1,0 +1,1 @@
+The solution involves defining the `my_uncommon_function()` function before it's called. This can be done by either creating the function within the same file or including a file containing its definition.
