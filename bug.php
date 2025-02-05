@@ -1,0 +1,1 @@
+This code attempts to use a non-existent function, causing a fatal error.  The function `my_uncommon_function()` is not defined anywhere in the script or included libraries.
