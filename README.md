@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily missed PHP error: calling a function that hasn't been defined. The `bug.php` file contains the erroneous code, while `bugSolution.php` provides the correction.  This error often stems from typos, missing includes, or incorrect function names. Understanding how to debug these errors is crucial for efficient PHP development.
